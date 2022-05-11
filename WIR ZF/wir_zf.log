@@ -1,0 +1,276 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.12)  20 FEB 2022 21:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/raphael/Desktop/WIR ZF/wir_zf.tex"
+(/home/raphael/Desktop/WIR ZF/wir_zf.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count176
+)
+Package babel Info: Making " an active character on input line 121.
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) (/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+ (/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)) (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip58
+\fb@frw=\dimen136
+\fb@frh=\dimen137
+\FrameRule=\dimen138
+\FrameSep=\dimen139
+) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count177
+\float@exts=\toks17
+\float@box=\box45
+\@float@everytoks=\toks18
+\@floatcapt=\box46
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box47
+) (/home/raphael/Desktop/WIR ZF/wir_zf.aux)
+\openout1 = `wir_zf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen142
+\scratchbox=\box48
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen143
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 38.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 41.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--102
+
+ []
+
+[2] [3]
+<pics/bilanz.png, id=20, 1065.9825pt x 451.6875pt>
+File: pics/bilanz.png Graphic file (type png)
+<use pics/bilanz.png>
+Package pdftex.def Info: pics/bilanz.png  used on input line 180.
+(pdftex.def)             Requested size: 319.79721pt x 135.5073pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
+
+ []
+
+<pics/Konto.png, id=22, 1069.9975pt x 385.44pt>
+File: pics/Konto.png Graphic file (type png)
+<use pics/Konto.png>
+Package pdftex.def Info: pics/Konto.png  used on input line 222.
+(pdftex.def)             Requested size: 321.00172pt x 115.63289pt.
+[4 </home/raphael/Desktop/WIR ZF/pics/bilanz.png>]
+<pics/uebersicht_konten.png, id=27, 1322.9425pt x 489.83pt>
+File: pics/uebersicht_konten.png Graphic file (type png)
+<use pics/uebersicht_konten.png>
+Package pdftex.def Info: pics/uebersicht_konten.png  used on input line 236.
+(pdftex.def)             Requested size: 264.58382pt x 97.96426pt.
+<pics/aktiv_bestandkonto.png, id=28, 1274.7625pt x 224.84pt>
+File: pics/aktiv_bestandkonto.png Graphic file (type png)
+<use pics/aktiv_bestandkonto.png>
+Package pdftex.def Info: pics/aktiv_bestandkonto.png  used on input line 246.
+(pdftex.def)             Requested size: 229.44734pt x 40.46945pt.
+<pics/passiv_bestandkonto.png, id=29, 1282.7925pt x 226.8475pt>
+File: pics/passiv_bestandkonto.png Graphic file (type png)
+<use pics/passiv_bestandkonto.png>
+Package pdftex.def Info: pics/passiv_bestandkonto.png  used on input line 254.
+(pdftex.def)             Requested size: 230.89268pt x 40.83078pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/auf_ertrag.png, id=30, 554.07pt x 332.24126pt>
+File: pics/auf_ertrag.png Graphic file (type png)
+<use pics/auf_ertrag.png>
+Package pdftex.def Info: pics/auf_ertrag.png  used on input line 267.
+(pdftex.def)             Requested size: 293.6557pt x 176.08702pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--270
+
+ []
+
+[5 </home/raphael/Desktop/WIR ZF/pics/Konto.png> </home/raphael/Desktop/WIR ZF/pics/uebersicht_konten.png> </home/raphael/Desktop/WIR ZF/pics/aktiv_bestandkonto.png>]
+<pics/kontenklassen.png, id=37, 828.09375pt x 436.63126pt>
+File: pics/kontenklassen.png Graphic file (type png)
+<use pics/kontenklassen.png>
+Package pdftex.def Info: pics/kontenklassen.png  used on input line 284.
+(pdftex.def)             Requested size: 331.23163pt x 174.6494pt.
+ [6 </home/raphael/Desktop/WIR ZF/pics/passiv_bestandkonto.png> </home/raphael/Desktop/WIR ZF/pics/auf_ertrag.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+
+AED: lastpage setting LastPage
+[7 </home/raphael/Desktop/WIR ZF/pics/kontenklassen.png>] (/home/raphael/Desktop/WIR ZF/wir_zf.aux) ) 
+Here is how much of TeX's memory you used:
+ 2221 strings out of 481239
+ 32889 string characters out of 5920377
+ 282711 words of memory out of 5000000
+ 17465 multiletter control sequences out of 15000+600000
+ 537543 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,10n,45p,284b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb>
+Output written on "/home/raphael/Desktop/WIR ZF/wir_zf.pdf" (7 pages, 291771 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

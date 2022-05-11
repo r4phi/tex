@@ -1,0 +1,109 @@
+PWD /home/raphael/Desktop/WIR ZF
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/raphael/Desktop/WIR ZF/wir_zf.tex
+OUTPUT /home/raphael/Desktop/WIR ZF/wir_zf.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /home/raphael/Desktop/WIR ZF/wir_zf.aux
+INPUT /home/raphael/Desktop/WIR ZF/wir_zf.aux
+OUTPUT /home/raphael/Desktop/WIR ZF/wir_zf.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcss1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcss0800.tfm
+OUTPUT /home/raphael/Desktop/WIR ZF/wir_zf.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/raphael/Desktop/WIR ZF/pics/bilanz.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/bilanz.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/bilanz.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/Konto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/Konto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/Konto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/uebersicht_konten.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/uebersicht_konten.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/uebersicht_konten.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/aktiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/aktiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/aktiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/passiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/passiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/passiv_bestandkonto.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/auf_ertrag.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/auf_ertrag.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/auf_ertrag.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/kontenklassen.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/kontenklassen.png
+INPUT /home/raphael/Desktop/WIR ZF/pics/kontenklassen.png
+INPUT /home/raphael/Desktop/WIR ZF/wir_zf.aux
+INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb

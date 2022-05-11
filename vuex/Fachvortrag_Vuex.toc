@@ -1,0 +1,16 @@
+\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Einführung}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Was ist Vuex?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Use Case}{5}{0}{1}
+\beamer@sectionintoc {2}{Installation/Nutzung}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Download}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Registrierung}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Store einbinden}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Zugriff}{9}{0}{2}
+\beamer@sectionintoc {3}{Core Concepts}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{State}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Getters}{11}{0}{3}
+\beamer@subsectionintoc {3}{3}{Mutations}{12}{0}{3}
+\beamer@subsectionintoc {3}{4}{Actions}{13}{0}{3}
+\beamer@subsectionintoc {3}{5}{Modules}{14}{0}{3}

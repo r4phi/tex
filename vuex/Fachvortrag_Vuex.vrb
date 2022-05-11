@@ -1,0 +1,10 @@
+\frametitle{Download}
+    Manuelle Installation
+    \begin{itemize}
+        \item nicht empfohlen
+    \end{itemize}
+    Paketmanager
+    \begin{itemize}
+        \item npm
+        \item yarn
+    \end{itemize}
